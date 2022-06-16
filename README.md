@@ -3,7 +3,7 @@
 <h1 align="center">Josh's GitHub Profile</h1>
 
 <p align="center">
-<img src="img/woltKeng.png" width=200/>
+<img src="img/woltJosh.PNG" width=200/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Web3%20Developer-blue"/>
@@ -33,61 +33,18 @@ Find out more about the project at our repository:
 <https://github.com/bubu59/tradehaus-program.git>
 
 <p align="left">
-<a href="https://www.niftyr3wrds.com/">
-<img src="img/niftyrewards.png" width="100"/>
-</a>
-
-## &nbsp; **2021 Major Projects**
-
-### :unicorn: UninterestedUnicorns - Gen 1 Minting
-
-<p align="left">
-<img src="img/uninterestedunicorns-proof-2.gif" width="100">
-<img src="img/uninterestedunicorns-proof.png" width="100">
-
-ERC721 Smart Contract for the sales of the initial 6900 UninterestedUnicorns. Project was sold out under 15 minutes with 307.308 ETH in revenue.
-
-Images were randomly generated using Node.js image generation scripts and hosted on IPFS.
-
-<p align="left">
-<a href="https://uunicorns.io/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D" height="16"></a>
-<a href="https://opensea.io/collection/ununicornsofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
-<a href="https://etherscan.io/address/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
-
-### :unicorn: UninterestedUnicorns - Questing
-
-Staking smart contract where UU holders can interact with to lock up UU tokens to gain UniCandy UCD rewards. Inspired by Decentralized Finance. Special combos of UUs staked & duration of quests will result in a bonus UCD multiplier.
-
-<a href="https://etherscan.io/address/0x1d7E43bf140451c9a28Ac551D70f25A69795767b#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x1d7E43bf140451c9a28Ac551D70f25A69795767b-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D" height="16"></a>
-
-### :unicorn: UninterestedUnicorns - UCD Token
-
-ERC20 Token for the UninterestedUnicorns ecosystem.
-
-<a href="https://etherscan.io/address/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
-
-### :unicorn: UninterestedUnicorns - Breeding
+<img src="img/tradehaus_logo.PNG" width="100"/>
+</a> 
+  
+### 💸: Staking - Yield Farming
 
 <p align="left">
 <img src="img/breeding.gif" width="100">
 
-Breeding smart contract where users can use their Gen 1 UUs to breed Gen 2 UUs. Breeding logic is done off-chain to save gas costs. All the traits of the Gen 1 UUs were mapped and stored in a MongoDB server into a chromosome type model. On token mint, backend logic takes in 2 of such chromosomes to output a baby Gen 2 UU that inherits the parent's traits with a random mutation chance. Heroku was used to host the backend API.
+Yield Farming smart contract where users can stake their SOL to earn native tokens. Breeding logic is done off-chain to save gas costs. 
 
 <a href="https://opensea.io/collection/uninterestedunicornsv2" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
 <a href="https://etherscan.io/address/0xdAABFA3f6A262815834be14eb1724cC809828242#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xdAABFA3f6A262815834be14eb1724cC809828242-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
-
-### :house: PropertysNFT - Minting
-
-<p align="left">
-<img src="img/propertys-proof-2.png" width="100">
-<img src="img/propertys-proof.png" width="100">
-
-ERC721 Smart Contract for the sales of the initial 6000 Propertys. Project was sold out under 15 minutes with 482.21 ETH in revenue. Off-chain whitelisting was implemented to save about 5 ETH (~20k USD) in gas cost for 2000 whitelist spots (0.25 ETH per 100 whitelist spots)
-
-<p align="left">
-<a href="https://propertys.xyz" target="blank"><img align="center" src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
-<a href="https://opensea.io/collection/propertysofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
-<a href="https://etherscan.io/address/0x18Cb9DB75FA62a9717aA98292B939e579b7c7Ccd#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x18Cb9DB75FA62a9717aA98292B939e579b7c7Ccd-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
 ### :moneybag: PredSoL - SOL Prediction Game
 
