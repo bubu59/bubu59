@@ -37,7 +37,7 @@ Find out more about the project at our repository:
 </a> 
   
 ### 💸: Staking - Yield Farming
-
+ 
 <p align="left">
 <img src="img/breeding.gif" width="100">
 
