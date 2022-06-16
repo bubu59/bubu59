@@ -10,10 +10,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/DeFi-lightblue"/>
-<img src="https://img.shields.io/badge/NFT-lightblue"/>
 <img src="https://img.shields.io/badge/GameFi-lightblue"/>
-<img src="https://img.shields.io/badge/Metaverse-lightblue"/>
-<img src="https://img.shields.io/badge/Security%20Audits-lightblue"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/kenghin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="kenk_linkedin"></a>
@@ -24,6 +21,8 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 ## &nbsp; **2022 Major Projects**
 
 ### Tradehaus - Gamified Simulated Trading Platform (Chainlink Spring 2022 Hackathon)
+
+<img align="center" src="img/nifty.png" width="500">
 
 The project was submitted as part of Chainlink Spring 2022 Hackathon organized by Chainlink. Our group identified a key problem with trading and that is, contrary to common belief, losing tons of money shouldn't be a rite of passage for newbies to try to pick up trading or investing. Instead, newbies should be given a safe environment, almost like a sandbox, for them to explore different trading strategies. At the same time, to simulate real trading evironment, we have introduced a gamified element to it in the form of a tournament where top winners will get rewarded. 
 
