@@ -22,7 +22,7 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
 
 ### Tradehaus - Gamified Simulated Trading Platform (Chainlink Spring 2022 Hackathon)
 
-<img align="center" src="img/nifty.png" width="500">
+<img align="center" src="img/tradehaus_website.PNG" width="500">
 
 The project was submitted as part of Chainlink Spring 2022 Hackathon organized by Chainlink. Our group identified a key problem with trading and that is, contrary to common belief, losing tons of money shouldn't be a rite of passage for newbies to try to pick up trading or investing. Instead, newbies should be given a safe environment, almost like a sandbox, for them to explore different trading strategies. At the same time, to simulate real trading evironment, we have introduced a gamified element to it in the form of a tournament where top winners will get rewarded. 
 
@@ -89,42 +89,13 @@ ERC721 Smart Contract for the sales of the initial 6000 Propertys. Project was s
 <a href="https://opensea.io/collection/propertysofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
 <a href="https://etherscan.io/address/0x18Cb9DB75FA62a9717aA98292B939e579b7c7Ccd#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x18Cb9DB75FA62a9717aA98292B939e579b7c7Ccd-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
-### :moneybag: DAOVentures - BNB Prediction Game
+### :moneybag: PredSoL - SOL Prediction Game
 
-Prediction Game where users can bet on whether the price of BNB will go up or down in a specified timeframe. Price of BNB is retrieved from the BNB/USD Chainlink Oracle.
+Prediction Game where users can bet on whether the price of SOL will go up or down in a specified timeframe. Price of SOL is retrieved from the SOL/USD Chainlink Oracle.
 
 <p align="left">
 <a href="https://prediction.daoventures.co/" target="blank"><img align="center" src="https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D"  height="16"></a>
 <a href="https://bscscan.com/address/0x3c8Fd44e681b906c18824c5aD8917183148BFA58#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x3c8Fd44e681b906c18824c5aD8917183148BFA58-FFFFFF?style=for-the-badge&logo=Binance&logoColor=F0B90B"  height="16"></a>
-
-### DAOVentures - Frontend Development
-
-React website with web3.js integration for DAOVentures DeFi.
-
-![DAOVentures-Screenshot](img/daoventures-screenshot.png)
-
-<a href="https://app.daoventures.co/invest" target="blank"><img align="center" src="https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D"  height="16"></a>
-
-## &nbsp; **2021 Minor Projects**
-
-### :crossed_swords: ShogunSamurais - Staking (Audit)
-
-<p align="left">
-<img src="img/shogunsamurais-proof.png" width="100">
-
-<a href="https://etherscan.io/address/0xC4F4811A854b60f7b35c8e46c4f2Ebfdd035bEd1#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4F4811A854b60f7b35c8e46c4f2Ebfdd035bEd1-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
-
-### PlaybookXO - Minting (Audit)
-
-<p align="left">
-<a href="https://etherscan.io/address/0x28ec3814372cb7e09db172f3d829c4b534b84a78#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x28ec3814372cb7e09Db172f3D829C4b534B84a78-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
-<a href="https://github.com/2manslkh/smartcontract-audits/blob/main/PlaybookXO%20Audit.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/PDF-FFFFFF?style=for-the-badge&logo=Github&logoColor=000000" height="16"></a>
-
-### Royalties Splitter
-
-A simple and lightweight smart contract to distribute ETH automatically as it is deposited to the address.
-
-<a href="https://etherscan.io/address/0x76ad3f2F4DD2EB7770a24373Ad1bC723aD8FA870#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x76ad3f2F4DD2EB7770a24373Ad1bC723aD8FA870-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
 
 ## 🔧 &nbsp;**Current Tech Stack**
 
