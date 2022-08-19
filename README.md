@@ -19,13 +19,30 @@
 Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-first products. My development style is lean and agile.
 
 ## &nbsp; **2022 Major Projects**
-
-### Mobius - Web3 Crowdfunding Platform (Solana Summer Camp 2022 Hackathon)
+  
+### HoldProtocol - Web3 Contract Security Platform (Solana Summer Camp 2022 Hackathon)
 
 <img align="center" src="img/tradehaus_website.PNG" width="500">
 
-The project was submitted as part of Solana Summer Camp 2022 Hackathon organized by Solana. Our group identified a key problem with Fundraising and that is, contrary to common belief, losing tons of money shouldn't be a rite of passage for newbies to try to pick up trading or investing. Instead, newbies should be given a safe environment, almost like a sandbox, for them to explore different trading strategies. At the same time, to simulate real trading evironment, we have introduced a gamified element to it in the form of a tournament where top winners will get rewarded. 
+The project was submitted as part of Solana Summer Camp 2022 Hackathon organized by Solana. Our group identified a key problem with the security of protocols. More specifically, the lack of immediate attention and ability to report and freeze a potential hacker's account. 
 
+Over the course of the hackathon, my team prototyped a platform which serves as an avenue for users and protocols alike to submit potential hack reports.
+
+Find out more about the project at our repository:
+
+<https://github.com/bubu59/solana-summer-camp-22.git>
+
+<p align="left">
+<img src="img/tradehaus_logo.PNG" width="100"/>
+</a> 
+  
+
+### MobiusProtocolPL - Web3 Crowdfunding Platform (Solana Summer Camp 2022 Hackathon)
+
+<img align="center" src="img/tradehaus_website.PNG" width="500">
+
+The project was submitted as part of Solana Summer Camp 2022 Hackathon organized by Solana. Our group identified a key problem with Fundraising and that is....
+  
 Over the course of the hackathon, my team prototyped a platform which serves as a Crowdfunding platform for users to mae contributions based on what they value or are of interest to them as well as have a part in voting if the project they are contributing to should continue to recieve funding based on the deliverables set by the fundraisers through a DAO voting mechanism.
 
 Find out more about the project at our repository:
