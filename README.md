@@ -51,7 +51,7 @@ Find out more about the project at our repository:
 <https://github.com/bubu59/tradehaus-program.git>
 
 <p align="left">
-<img src="img/tradehaus_logo.PNG" width="100"/>
+<img src="img/tradehaus.PNG" width="100"/>
 </a> 
   
 ### 💸: Staking - Yield Farming
