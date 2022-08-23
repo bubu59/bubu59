@@ -39,7 +39,7 @@ Find out more about the project at our repository:
 
 ### MobiusProtocolPL - Web3 Crowdfunding Platform (Solana Summer Camp 2022 Hackathon)
 
-<img align="center" src="img/tradehaus_website.PNG" width="500">
+<img align="center" src="img/mobius_frontend.jpg" width="500">
 
 The project was submitted as part of Solana Summer Camp 2022 Hackathon organized by Solana. Our group identified a key problem with Fundraising and that is....
   
