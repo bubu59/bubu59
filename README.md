@@ -11,10 +11,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/DeFi-lightblue"/>
 <img src="https://img.shields.io/badge/GameFi-lightblue"/>
+   
 
 <p align="center">
-<a href="https://linkedin.com/in/kenghin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="kenk_linkedin"></a>
-<a href="https://discordapp.com/users/267979519267176449/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord"></a>
+<a href="https://www.linkedin.com/in/joshua-wee-784b41151/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="josh_linkedin"></a>
 
 Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-first products. My development style is lean and agile.
 
