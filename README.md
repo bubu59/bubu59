@@ -22,11 +22,9 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
   
 ### HoldProtocol - Web3 Contract Security Platform (Solana Summer Camp 2022 Hackathon)
 
-<img align="center" src="img/tradehaus_website.PNG" width="500">
-
 The project was submitted as part of Solana Summer Camp 2022 Hackathon organized by Solana. Our group identified a key problem with the security of protocols. More specifically, the lack of immediate attention and ability to report and freeze a potential hacker's account. 
 
-Over the course of the hackathon, my team prototyped a platform which serves as an avenue for users and protocols alike to submit potential hack reports.
+Over the course of the hackathon, my team prototyped a platform which serves as an avenue for users and protocols alike to submit potential hack reports which will then be investigated by a team of white hats such as OtterSec and the funds in question will be frozen until investigations are complete. 
 
 Find out more about the project at our repository:
 
@@ -41,9 +39,9 @@ Find out more about the project at our repository:
 
 <img align="center" src="img/mobius_frontend.jpg" width="500">
 
-The project was submitted as part of Solana Summer Camp 2022 Hackathon organized by Solana. Our group identified a key problem with Fundraising and that is....
+The project was submitted as part of Solana Summer Camp 2022 Hackathon organized by Solana. Our group identified a key problem with Fundraising and that is 85% of startups delay the delivery, and 14% don’t deliver at all what was promised to the angel investors. As of today, crowdfunding platforms have accountability and trust problems. In many cases, money from investors has gone into wrong campaigns and has been misused
   
-Over the course of the hackathon, my team prototyped a platform which serves as a Crowdfunding platform for users to mae contributions based on what they value or are of interest to them as well as have a part in voting if the project they are contributing to should continue to recieve funding based on the deliverables set by the fundraisers through a DAO voting mechanism.
+Over the course of the hackathon, my team prototyped a platform which serves as a Crowdfunding platform investors can know to whom the money is going and how they are spending it. A smart contract helps to block the funds within blockchain until the project or startup founder makes progress in the project.
 
 Find out more about the project at our repository:
 
@@ -69,25 +67,7 @@ Find out more about the project at our repository:
 
 <p align="left">
 <img src="img/tradehaus.PNG" width="100"/>
-</a> 
-  
-### 💸: Staking - Yield Farming
- 
-<p align="left">
-<img src="img/breeding.gif" width="100">
-
-Yield Farming smart contract where users can stake their SOL to earn native tokens. Breeding logic is done off-chain to save gas costs. 
-
-<a href="https://opensea.io/collection/uninterestedunicornsv2" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logoColor=3C3C3D"  height="16"></a>
-<a href="https://etherscan.io/address/0xdAABFA3f6A262815834be14eb1724cC809828242#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xdAABFA3f6A262815834be14eb1724cC809828242-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
-
-### :moneybag: PredSoL - SOL Prediction Game
-
-Prediction Game where users can bet on whether the price of SOL will go up or down in a specified timeframe. Price of SOL is retrieved from the SOL/USD Chainlink Oracle.
-
-<p align="left">
-<a href="https://prediction.daoventures.co/" target="blank"><img align="center" src="https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D"  height="16"></a>
-<a href="https://bscscan.com/address/0x3c8Fd44e681b906c18824c5aD8917183148BFA58#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x3c8Fd44e681b906c18824c5aD8917183148BFA58-FFFFFF?style=for-the-badge&logo=Binance&logoColor=F0B90B"  height="16"></a>
+</a>   
 
 ## 🔧 &nbsp;**Current Tech Stack**
 
