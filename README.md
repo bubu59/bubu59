@@ -22,6 +22,8 @@ Welcome to my Github profile. I am a web3 **BUIDLR** that develops community-fir
   
 ### HoldProtocol - Web3 Contract Security Platform (Solana Summer Camp 2022 Hackathon)
 
+<img align="center" src="img/hold-protocol.PNG" width="500">
+
 The project was submitted as part of Solana Summer Camp 2022 Hackathon organized by Solana. Our group identified a key problem with the security of protocols. More specifically, the lack of immediate attention and ability to report and freeze a potential hacker's account. 
 
 Over the course of the hackathon, my team prototyped a platform which serves as an avenue for users and protocols alike to submit potential hack reports which will then be investigated by a team of white hats such as OtterSec and the funds in question will be frozen until investigations are complete. 
@@ -31,7 +33,7 @@ Find out more about the project at our repository:
 <https://github.com/bubu59/solana-summer-camp-22.git>
 
 <p align="left">
-<img src="img/tradehaus_logo.PNG" width="100"/>
+<img src="img/hold_logo.PNG" width="100"/>
 </a> 
   
 
